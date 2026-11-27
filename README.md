@@ -1,4 +1,5 @@
-<p align="center">Hi, my name is Mattia and this is a space where I share some of the work I have done during my studies in applied mathematics. I have always explored from the beginning of my studies the topic of artificial neural networks and from these then I studied the foundations of many algorithms underlying machine learning.</p>
+<h3 data-importer="text" align="left">Hi, my name is Mattia, welcome to my GitHub repo.</h3>
+<p align="center">This is a space where I share some of the work I have done during my studies in applied mathematics. I have always explored from the beginning of my studies the topic of artificial neural networks and from these then I studied the foundations of many algorithms underlying machine learning.</p>
 
 ###
 
