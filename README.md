@@ -27,7 +27,7 @@
 <p align="left">What has always fascinated me is the very strong connection between the theoretical model and its software implementation-it is as if a code can adapt a theory to reality. I tried various programming languages and in each of them the moment a mathematical model produced a figure it always made me very excited, it was as if I had brought theory and reality together.</p>
 
 ###
-![collage](MixCollage-20-Jul-2025-04-29-PM-4585.jpg)
+![collage](imageghReadme.png)
 
 <p align="left">My Linkedin contact here</p>
 
